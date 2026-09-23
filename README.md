@@ -64,18 +64,18 @@ OOP_Labs/
 ```mermaid
 graph TD
     %% --- Точка входу ---
-    User((👤 Користувач))
+    User(("👤 Користувач"))
     
     %% --- Інтерфейс ---
-    AppMenu[🎮 AppMenu / UI <br><i>Інтерактивна взаємодія</i>]
+    AppMenu["🎮 AppMenu / UI <br><i>Інтерактивна взаємодія</i>"]
     
     %% --- Ядро ---
-    ITask{📜 Інтерфейси (Core) <br><i>Абстракція бізнес-логіки</i>}
+    ITask{"📜 Інтерфейси (Core) <br><i>Абстракція бізнес-логіки</i>"}
     
     %% --- Імплементації ---
-    Task1[Логіка ЛР 1]
-    Task2[Логіка ЛР 2]
-    Task3[Логіка ЛР 3]
+    Task1["Логіка ЛР 1"]
+    Task2["Логіка ЛР 2"]
+    Task3["Логіка ЛР 3"]
     
     %% --- Зв'язки ---
     User -- "Ввід даних" --> AppMenu
@@ -85,7 +85,7 @@ graph TD
     ITask --> Task3
     
     %% --- Утиліти ---
-    Utils[[🛡️ Utils / Validators <br><i>Захист від крашів (TryParse)</i>]]
+    Utils[["🛡️ Utils / Validators <br><i>Захист від крашів (TryParse)</i>"]]
     Task1 -.-> Utils
     Task2 -.-> Utils
 
