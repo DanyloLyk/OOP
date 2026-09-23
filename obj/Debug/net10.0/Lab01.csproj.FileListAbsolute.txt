@@ -1,0 +1,14 @@
+/home/danylo/Projects/OOP/bin/Debug/net10.0/Lab01
+/home/danylo/Projects/OOP/bin/Debug/net10.0/Lab01.deps.json
+/home/danylo/Projects/OOP/bin/Debug/net10.0/Lab01.runtimeconfig.json
+/home/danylo/Projects/OOP/bin/Debug/net10.0/Lab01.dll
+/home/danylo/Projects/OOP/bin/Debug/net10.0/Lab01.pdb
+/home/danylo/Projects/OOP/obj/Debug/net10.0/Lab01.GeneratedMSBuildEditorConfig.editorconfig
+/home/danylo/Projects/OOP/obj/Debug/net10.0/Lab01.AssemblyInfoInputs.cache
+/home/danylo/Projects/OOP/obj/Debug/net10.0/Lab01.AssemblyInfo.cs
+/home/danylo/Projects/OOP/obj/Debug/net10.0/Lab01.csproj.CoreCompileInputs.cache
+/home/danylo/Projects/OOP/obj/Debug/net10.0/Lab01.dll
+/home/danylo/Projects/OOP/obj/Debug/net10.0/refint/Lab01.dll
+/home/danylo/Projects/OOP/obj/Debug/net10.0/Lab01.pdb
+/home/danylo/Projects/OOP/obj/Debug/net10.0/Lab01.genruntimeconfig.cache
+/home/danylo/Projects/OOP/obj/Debug/net10.0/ref/Lab01.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZjSAH0tP78M=",
+  "success": true,
+  "projectFilePath": "/home/danylo/Projects/OOP/Lab01.csproj",
+  "expectedPackageFiles": [
+    "/home/danylo/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
